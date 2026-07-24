@@ -1,279 +1,481 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=RIDHWAN%20FACHRUL%20ARIEF&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Deep%20Learning%20%26%20Computer%20Vision%20Engineer&descAlignY=55&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:38bdf8&text=RIDHWAN%20FACHRUL%20ARIEF&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20|%20Machine%20Learning%20Engineer&descAlignY=58&descColor=cbd5e1"/>
 
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Mengubah+data+mentah+menjadi+model+yang+ship;97%25+Akurasi+%C2%B7+Inferensi+Offline+di+Flutter;Fine-tuning+IndoBERT+untuk+1%2C18+Juta+Ulasan;Selalu+Terbuka+untuk+Kolaborasi+%26+Peluang+Baru" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+Solutions+for+Real-World+Problems;Deep+Learning+•+Computer+Vision+•+NLP;Python+•+TensorFlow+•+Flutter+•+Flask;Open+to+Data+Science+and+Machine+Learning+Roles"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/📍%20Surabaya,%20Indonesia-0f172a?style=for-the-badge&labelColor=1e293b&color=38bdf8"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-22c55e?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GPA-3.90%20/%204.00-facc15?style=for-the-badge"/>
+
+<br><br>
+
+<a href="mailto:ariefridhwanfachrularief@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/in/ridhwan-fachrul-arief">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/📍-Surabaya,_Indonesia-0f172a?style=for-the-badge&labelColor=1e293b&color=38bdf8" />
-<img src="https://img.shields.io/badge/Fokus-Deep_Learning_%26_NLP-0f172a?style=for-the-badge&labelColor=1e293b&color=22c55e" />
-<img src="https://img.shields.io/badge/Status-Fresh_Graduate_%7C_Open_to_Work-0f172a?style=for-the-badge&labelColor=1e293b&color=facc15" />
+<a href="https://wa.me/6281348358729">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="./assets/CV_Ridhwan_Fachrul_Arief_Indonesia.pdf">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ridhwan-fachrul-arief)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ariefridhwanfachrularief@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f172a?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.me/6281348358729)
-![Profile Views](https://komarev.com/ghpvc/?username=Wanncay&style=flat-square&color=38bdf8&label=Profile+Views)
+<img src="https://img.shields.io/badge/CV%20Indonesia-38bdf8?style=for-the-badge"/>
 
-<br/>
+</a>
 
-[![Unduh CV (Indonesia)](https://img.shields.io/badge/📄_Unduh_CV-Bahasa_Indonesia-38bdf8?style=for-the-badge&labelColor=0f172a)](./assets/CV_Ridhwan_Fachrul_Arief_Indonesia.pdf)
-[![Download CV (English)](https://img.shields.io/badge/📄_Download_CV-English-22c55e?style=for-the-badge&labelColor=0f172a)](./assets/CV_Ridhwan_Fachrul_Arief_English.pdf)
+<a href="./assets/CV_Ridhwan_Fachrul_Arief_English.pdf">
+
+<img src="https://img.shields.io/badge/CV%20English-22c55e?style=for-the-badge"/>
+
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Wanncay&style=for-the-badge&color=38bdf8)
 
 </div>
+# 👋 About Me
 
-<br/>
+I'm a **Data Science graduate** from **Universitas Negeri Surabaya** with a strong interest in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-## ⚡ Tentang Saya
+I enjoy building end-to-end AI solutions, from data preprocessing and model development to deployment using **Flutter**, **Flask**, and **TensorFlow Lite**.
 
-> ```
-> DATA SCIENTIST  ·  DEEP LEARNING ENGINEER  ·  NLP PRACTITIONER
-> ```
+My goal is simple:
 
-Saya mengubah data dunia nyata yang "berantakan" — citra daun, ulasan produk, hasil scan medis — menjadi model yang benar-benar **siap pakai**, bukan sekadar notebook dengan skor bagus sekali jalan.
-
-Fokus saya berada di persimpangan antara **transfer learning untuk computer vision** (DenseNet201, MobileNetV2), **NLP berbasis transformer untuk Bahasa Indonesia** (IndoBERT), dan membawa model **keluar dari notebook** — masuk ke aplikasi Flutter, dashboard Flask, dan tools Streamlit yang bisa langsung dipakai orang awam.
-
-Lulus dengan **IPK 3.90** dari Manajemen Informatika, Universitas Negeri Surabaya, dan menghabiskan tahun terakhir untuk membuktikannya: classifier penyakit tanaman dengan akurasi 97% yang berjalan offline di ponsel, mesin analisis sentimen untuk 1,18 juta ulasan e-commerce, dan alat skrining kanker serviks yang dibangun dalam ajang hackathon AI internasional.
-
-> *"Model yang hanya hidup di notebook belum menyelesaikan apa-apa — deployment adalah tempat masalah sesungguhnya dimulai."*
-
-<br/>
-
-## 🎯 Sedang Difokuskan
+> Build AI that solves real problems, not just benchmarks.
+# ⚡ Highlights
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
 
-**🧬 Applied Computer Vision**
+<td align="center" width="25%">
 
-Pipeline transfer learning (DenseNet201, MobileNetV2) yang disesuaikan untuk **data citra dunia nyata yang tidak seimbang** — class weighting, augmentasi, dan konversi TFLite untuk inferensi on-device.
+<img width="60" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
 
-</td>
-<td width="50%" valign="top">
+### AI
 
-**🗣️ NLP Bahasa Indonesia**
+Computer Vision
 
-Fine-tuning **IndoBERT** untuk klasifikasi sentimen dan multi-label pada skala besar (1 juta+ dokumen), menyeimbangkan akurasi dengan biaya inferensi di hardware produksi.
+NLP
 
 </td>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/fluency/96/python.png"/>
+
+### Python
+
+TensorFlow
+
+Keras
+
+</td>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/fluency/96/flutter.png"/>
+
+### Deployment
+
+Flutter
+
+Flask
+
+</td>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/fluency/96/prize.png"/>
+
+### Achievement
+
+97% Accuracy
+
+1.18M Reviews
+
+</td>
+
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-**📱 Edge & Lightweight Deployment**
-
-Mengirimkan model ke tempat yang benar-benar dipakai: **TensorFlow Lite** di dalam aplikasi Flutter untuk inferensi offline penuh, tanpa perlu round-trip ke server.
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Dashboard Siap Insight**
-
-Mengubah output model menjadi keputusan — aplikasi **Flask/Streamlit** dan dashboard **Looker Studio** yang dibangun untuk stakeholder yang tidak akan pernah membuka notebook.
-
-</td>
-</tr>
 </table>
-
-<br/>
-
-## 🛠️ Tumpukan Teknologi
-
-<div align="center">
-
-**Bahasa & Deep Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
-
-**Deployment & Aplikasi**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,flutter,dart&theme=dark" />
-
-**Data & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=pandas,git,github,jupyter,anaconda,selenium&theme=dark" />
-
-<br/>
-
-![Keras](https://img.shields.io/badge/Keras-1e293b?style=flat-square&logo=keras&logoColor=D00000)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1e293b?style=flat-square&color=38bdf8)
-![IndoBERT](https://img.shields.io/badge/IndoBERT-1e293b?style=flat-square&color=38bdf8)
-![Streamlit](https://img.shields.io/badge/Streamlit-1e293b?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![TFLite](https://img.shields.io/badge/TensorFlow_Lite-1e293b?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-1e293b?style=flat-square&logo=looker&logoColor=4285F4)
-![Excel](https://img.shields.io/badge/Excel-1e293b?style=flat-square&logo=microsoftexcel&logoColor=217346)
-
-</div>
-
-<br/>
-
-## 🚀 Proyek Unggulan
-
-### 🌿 Deteksi Penyakit Daun Tebu *(Tugas Akhir)*
-> Diagnosis on-device untuk petani — tanpa perlu koneksi internet.
-
-Classifier penyakit tebu **11 kelas** yang dilatih dari gabungan dua dataset publik, menggunakan **transfer learning DenseNet201** dan class weighting untuk mengatasi ketidakseimbangan data yang parah.
-
-```
-Input Citra Daun  →  Preprocessing & Augmentasi
-        ↓
-DenseNet201 (Transfer Learning)  →  Class-Weighted Training
-        ↓
-Akurasi 97% pada 2.231 Data Uji
-        ↓
-Konversi TensorFlow Lite  →  Aplikasi Flutter  →  Inferensi Offline Penuh
-```
-
-`Python` `TensorFlow` `Keras` `TFLite` `Flutter`
-
-<br/>
-
-### 🛒 Tokopedia Review Intelligence
-> Mengubah 1,18 juta ulasan menjadi alat pengambilan keputusan bisnis.
-
-Dua model **IndoBERT** yang di-fine-tune secara terpisah dalam satu pipeline NLP — satu untuk sentimen, satu untuk klasifikasi keluhan multi-label — disajikan lewat dashboard interaktif.
-
-```
-1,18 Juta Ulasan Tokopedia  →  Text Cleaning & Preprocessing
-        ↓
-Fine-Tuning IndoBERT (x2)  →  Model Sentimen · Klasifikasi Keluhan
-        ↓
-Akurasi Sentimen 73,2%   |   F1-Micro Klasifikasi Keluhan 0,80
-        ↓
-Dashboard Flask  →  Insight untuk Tim Bisnis
-```
-
-`Python` `IndoBERT` `Flask` `NLP` `Multi-label Classification`
-
-<br/>
-
-### 🩺 SaveCerv AI — Deteksi Dini Kanker Serviks *(Intel® AI Global Impact Festival)*
-> Dibangun bersama tim untuk membawa akses skrining ke daerah terpencil.
-
-Classifier citra Pap smear yang mengidentifikasi **5 kategori sitologi** menggunakan **MobileNetV2**, dibungkus dalam aplikasi web real-time dengan confidence score dan konteks statistik nasional/global.
-
-```
-Citra Pap Smear  →  MobileNetV2 (Transfer Learning)
-        ↓
-Akurasi 90% — Klasifikasi Sitologi 5 Kelas
-        ↓
-Aplikasi Web Flask + Streamlit  →  Confidence Score + Dashboard Statistik
-```
-
-`Python` `MobileNetV2` `Flask` `Streamlit` `Computer Vision`
-
-<br/>
-
-## 💼 Pengalaman
-
-**Badan Pusat Statistik Kabupaten Trenggalek** — *Pengolahan Data*
-`Januari 2025 – Juli 2025`
-
-- Membangun scraper **Python + Selenium** untuk mengumpulkan data 1.500+ sekolah, mengotomatisasi export ke Excel dan mempercepat entry data staf.
-- Merancang dashboard **Looker Studio** untuk data administrasi Desa Dawuhan, mendukung transparansi data publik.
-- Membuat visualisasi berbasis Excel untuk publikasi resmi *"Kabupaten Trenggalek Dalam Angka 2025"*.
-- Mendigitalisasi sistem antrian manual menjadi platform layanan publik berbasis **Laravel 10**.
-
-<br/>
-
-## 🎓 Pendidikan & Prestasi
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
 
-**Universitas Negeri Surabaya**
-`2022 – 2026`
-Sarjana Terapan — Manajemen Informatika
-**IPK 3.90 / 4.00**
+<td width="50%">
+
+## 🌿 Sugarcane Disease Classification
+
+AI-powered mobile application for identifying **11 classes** of sugarcane leaf diseases using **DenseNet201 Transfer Learning**.
+
+### ✨ Key Highlights
+
+- 🌱 11 Disease Classes
+- 📈 97% Test Accuracy
+- 📱 Offline Inference
+- ⚡ TensorFlow Lite
+- 🤖 Flutter Mobile App
+
+### 🛠 Tech Stack
+
+`Python` `TensorFlow` `Keras`
+`DenseNet201`
+`Flutter`
+`TensorFlow Lite`
+
+<br>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-**Program Dicoding x Universitas**
-Data Science Track
+<td width="50%">
 
-**PKM Center UNESA** (2024)
-Membantu meningkatkan tingkat keberhasilan proposal terdanai dari 7,2% → 9,6%
+<img src="./assets/projects/sugarcane.png"/>
 
 </td>
+
 </tr>
+
 </table>
 
-<br/>
+---
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 Tokopedia Review Intelligence
+
+Natural Language Processing platform for analyzing **1.18 million** Tokopedia reviews using **IndoBERT**.
+
+### ✨ Key Highlights
+
+- 🧠 IndoBERT Fine-Tuning
+- 😊 Sentiment Analysis
+- 📝 Complaint Classification
+- 📊 Interactive Dashboard
+
+### 🛠 Tech Stack
+
+`Python`
+`IndoBERT`
+`Flask`
+`Pandas`
+
+<br>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/projects/tokopedia.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 SaveCerv AI
+
+AI-assisted cervical cancer screening platform developed for Intel® AI Global Impact Festival.
+
+### ✨ Key Highlights
+
+- 🔬 MobileNetV2
+- 📈 90% Accuracy
+- 🌐 Flask
+- 📊 Streamlit Dashboard
+
+### 🛠 Tech Stack
+
+`Python`
+
+`TensorFlow`
+
+`MobileNetV2`
+
+`Flask`
+
+`Streamlit`
+
+<br>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/projects/savecerv.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 💼 Professional Experience
+
+## 🏢 Badan Pusat Statistik Kabupaten Trenggalek
+
+**Data Processing Intern**
+
+📅 January 2025 – July 2025
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+
+### Responsibilities
+
+- Developed web scraping tools using Python and Selenium to collect information from **1,500+ schools**.
+- Designed administrative dashboards using **Looker Studio**.
+- Built statistical visualization for **Kabupaten Trenggalek Dalam Angka 2025**.
+- Developed a web-based public queue management system using **Laravel 10**.
+- Performed regional news data processing and reporting.
+
+---
+# 🎓 Education
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+## Universitas Negeri Surabaya
+
+Bachelor of Applied Science
+
+Information Management
+
+📅 2022 – 2026
+
+🎓 GPA
+
+**3.90 / 4.00**
+
+</td>
+
+<td align="center">
+
+🎓
+
+### Data Science Track
+
+Dicoding for University
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 📜 Certifications
 
 <div align="center">
 
-```
-"Model terbaik bukan yang punya akurasi tertinggi di atas kertas —
- tapi yang benar-benar bisa dibuka dan dipakai orang."
+<table>
 
-                                        — Ridhwan Fachrul Arief
-```
+<tr>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/color/96/certificate.png"/>
+
+### TensorFlow
+
+Google
+
+<a href="./assets/sertifikasi/tensorflow.pdf">
+
+View
+
+</a>
+
+</td>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/color/96/certificate.png"/>
+
+### Data Science
+
+Dicoding
+
+<a href="./assets/sertifikasi/dicoding.pdf">
+
+View
+
+</a>
+
+</td>
+
+<td align="center">
+
+<img width="60" src="https://img.icons8.com/color/96/certificate.png"/>
+
+### Coming Soon
+
+More...
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
+---
 
-## 🤝 Mari Terhubung
+# 📊 GitHub Analytics
 
 <div align="center">
 
-Terbuka untuk peran **Data Science**, **Machine Learning Engineer**, dan **AI/NLP**.
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wanncay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
 
-[![Email](https://img.shields.io/badge/EMAIL-ariefridhwanfachrularief@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ariefridhwanfachrularief@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ridhwan--fachrul--arief-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ridhwan-fachrul-arief)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-081348358729-0f172a?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/6281348358729)
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wanncay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Wanncay&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
-
-## 📊 Statistik GitHub
+---
+# 📌 Featured Repositories
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wanncay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanncay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8" width="45%"/>
+<a href="https://github.com/Wanncay/Sugarcane-Disease-Classification">
 
-<img src="https://streak-stats.demolab.com/?user=Wanncay&theme=midnight-purple&hide_border=true&background=0f172a&ring=38bdf8&fire=facc15" width="70%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=Sugarcane-Disease-Classification&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wanncay&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+<a href="https://github.com/Wanncay/Tokopedia-Review-Intelligence">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=Tokopedia-Review-Intelligence&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 </div>
 
-<br/>
-
-## 📈 Peta Aktivitas Kontribusi
+<br>
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Wanncay/Wanncay/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake animation kontribusi GitHub"/>
-<!--END_SECTION:snake-->
+<a href="https://github.com/Wanncay/SaveCerv-AI">
 
-<sub>💡 Animasi ini otomatis ter-generate lewat GitHub Action <a href="https://github.com/Platane/snk">Platane/snk</a> — tinggal di-setup sekali di repo <code>Wanncay/Wanncay</code>.</sub>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=SaveCerv-AI&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 </div>
 
-<br/>
+---
+# 🐍 Contribution Graph
 
 <div align="center">
 
-### 💭 Kutipan Hari Ini
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+<img src="https://raw.githubusercontent.com/Wanncay/Wanncay/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-<br/>
+---
+# 🎮 Fun Zone
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+# 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in discussing
+
+**Artificial Intelligence**
+
+**Machine Learning**
+
+**Computer Vision**
+
+**Natural Language Processing**
+
+<br>
+
+<a href="mailto:ariefridhwanfachrularief@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/ridhwan-fachrul-arief">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://wa.me/6281348358729">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+<div align="center">
+
+> *"Good models don't just achieve high accuracy. They create real impact."*
+
+**Ridhwan Fachrul Arief**
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:38bdf8"/>
+
+</div>
