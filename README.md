@@ -226,8 +226,8 @@ Berkontribusi meningkatkan tingkat keberhasilan proposal Program Kreativitas Mah
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wanncay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanncay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wanncay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wanncay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
 
 <br><br>
 
@@ -241,12 +241,12 @@ Berkontribusi meningkatkan tingkat keberhasilan proposal Program Kreativitas Mah
 
 <div align="center">
 
-<a href="https://github.com/Wanncay/GoTebu-Sugarcane_Leaf_Disease_Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanncay&repo=GoTebu-Sugarcane_Leaf_Disease_Classification&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Wanncay/Tokopedia-Review_SentimenAnalysis_KlasifikasiKeluhan_NLP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanncay&repo=Tokopedia-Review_SentimenAnalysis_KlasifikasiKeluhan_NLP&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Wanncay/GoTebu-Sugarcane_Leaf_Disease_Classification"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=GoTebu-Sugarcane_Leaf_Disease_Classification&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Wanncay/Tokopedia-Review_SentimenAnalysis_KlasifikasiKeluhan_NLP"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=Tokopedia-Review_SentimenAnalysis_KlasifikasiKeluhan_NLP&theme=tokyonight&hide_border=true"/></a>
 
 <br>
 
-<a href="https://github.com/Wanncay/CervAI-cervix_ai_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wanncay&repo=CervAI-cervix_ai_detection&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Wanncay/CervAI-cervix_ai_detection"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wanncay&repo=CervAI-cervix_ai_detection&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
