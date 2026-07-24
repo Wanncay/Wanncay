@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  # Jalan otomatis setiap hari jam 00:00 UTC (07:00 WIB)
+  schedule:
+    - cron: "0 0 * * *"
+  # Bisa juga dijalankan manual dari tab "Actions" di GitHub
+  workflow_dispatch:
+  # Ikut jalan tiap kali ada push ke branch utama (opsional, biar langsung update)
+  push:
+    branches:
+      - main
+
+# Izin yang dibutuhkan supaya Action ini boleh nge-push hasil generate ke repo
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation SVG
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Wanncay
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push hasil generate ke branch "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
